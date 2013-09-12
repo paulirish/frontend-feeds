@@ -323,6 +323,7 @@
     </outline>
 
     <outline title="frontend-standards+browsers" text="frontend-standards+browsers">
+      <outline type="rss" title="Open Web Platform Daily" text="Open Web Platform Daily" htmlUrl="http://webplatformdaily.org/" xmlUrl="http://feeds.feedburner.com/OpenWebPlatformDailyDigest"/>
       <outline type="rss" title="&lt;Glazblog/&gt; - CSS and style" text="&lt;Glazblog/&gt; - CSS and style" htmlUrl="http://www.glazman.org/weblog/dotclear/index.php?" xmlUrl="http://glazman.org/weblog/dotclear/index.php?feed/category/CssAndStyle/atom"/>
       <outline type="rss" title="&lt;Glazblog/&gt; - Standards" text="&lt;Glazblog/&gt; - Standards" htmlUrl="http://www.glazman.org/weblog/dotclear/index.php?" xmlUrl="http://glazman.org/weblog/dotclear/index.php?feed/category/Standards/atom"/>
       <outline type="rss" title="A Minute With Brendan" text="A Minute With Brendan" htmlUrl="http://www.aminutewithbrendan.com" xmlUrl="http://feeds.feedburner.com/AMinuteWithBrendan"/>
