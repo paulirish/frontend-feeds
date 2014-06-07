@@ -9,14 +9,14 @@
   </head>
   <body>
 
-  <outline title="frontend" text="frontend">
+    <outline title="frontend" text="frontend">
       <outline type="rss" title="24 ways" text="24 ways" htmlUrl="http://24ways.org/" xmlUrl="http://feeds.feedburner.com/24ways"/>
       <outline type="rss" title="@drublic" text="@drublic" htmlUrl="http://drublic.de/blog" xmlUrl="http://feeds.feedburner.com/drublic"/>
       <outline type="rss" title="A List Apart" text="A List Apart" htmlUrl="http://alistapart.com" xmlUrl="http://www.alistapart.com/rss.xml"/>
       <outline type="rss" title="aaron.jorb.in » Programming" text="aaron.jorb.in » Programming" htmlUrl="http://aaron.jorb.in" xmlUrl="http://aaron.jorb.in/blog/category/programming/feed/"/>
       <outline type="rss" title="Accessible Culture" text="Accessible Culture" htmlUrl="http://www.accessibleculture.org" xmlUrl="http://www.accessibleculture.org/feed/"/>
       <outline type="rss" title="Alex Gibson" text="Alex Gibson" htmlUrl="http://alxgbsn.co.uk/" xmlUrl="http://alxgbsn.co.uk/feed/"/>
-      <outline type="rss" title="Alex Kessinger - engineer, creator, collector" text="Alex Kessinger - engineer, creator, collector" htmlUrl="http://rumproarious.com/" xmlUrl="http://feeds.feedburner.com/ak_blog"/>
+      <outline type="rss" title="Alex Kessinger - engineer, creator, collector" text="Alex Kessinger - engineer, creator, collector" ht1mlUrl="http://rumproarious.com/" xmlUrl="http://feeds.feedburner.com/ak_blog"/>
       <outline type="rss" title="Alex Sexton" text="Alex Sexton" htmlUrl="http://alexsexton.com" xmlUrl="http://alexsexton.com/?feed=rss2"/>
       <outline type="rss" title="amobil.se" text="amobil.se" htmlUrl="http://andmag.se" xmlUrl="http://amobil.se/feed/"/>
       <outline type="rss" title="An Enduring Column" text="An Enduring Column" htmlUrl="http://an.enduringcolumn.com" xmlUrl="http://an.enduringcolumn.com/feeds/posts/default/"/>
@@ -83,7 +83,6 @@
       <outline type="rss" title="Impressive Webs" text="Impressive Webs" htmlUrl="http://www.impressivewebs.com" xmlUrl="http://feeds.feedburner.com/ImpressiveWebs"/>
       <outline type="rss" title="Inspect Element" text="Inspect Element" htmlUrl="http://inspectelement.com" xmlUrl="http://feeds.feedburner.com/inspectelement"/>
       <outline type="rss" title="James Padolsey" text="James Padolsey" htmlUrl="http://james.padolsey.com" xmlUrl="http://feeds.feedburner.com/JamesPadolsey"/>
-      <outline type="rss" title="JavaScript Consulting &amp; Training &raquo; Bitovi" text="JavaScript Consulting &amp; Training &raquo; Bitovi" htmlUrl="http://www.bitovi.com" xmlUrl="http://feeds.feedburner.com/JupiterMain"/>
       <outline type="rss" title="Javascript Snippets" text="Javascript Snippets" htmlUrl="http://wilq32.blogspot.com/" xmlUrl="http://wilq32.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Joe Lambert" text="Joe Lambert" htmlUrl="http://blog.joelambert.co.uk" xmlUrl="http://feeds.feedburner.com/joelambert"/>
       <outline type="rss" title="John Resig" text="John Resig" htmlUrl="http://ejohn.org" xmlUrl="http://feeds.feedburner.com/JohnResig"/>
