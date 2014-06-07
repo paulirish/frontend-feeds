@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Frontend Dev Feeds</title>
+    <dateCreated>Fri, 26 Jul 2013 10:29:38 GMT</dateCreated>
+    <dateModified>Sun, 9 Oct 2013</dateModified>
+    <ownerName>Paul Irish</ownerName>
+    <ownerEmail>holler at paulirish dot com</ownerEmail>
+  </head>
+  <body>
+    
+   <outline title="frontend-standards+browsers" text="frontend-standards+browsers">
+      <outline type="rss" title="Anne’s Blog" text="Anne’s Blog" htmlUrl="http://annevankesteren.nl/" xmlUrl="http://annevankesteren.nl/feeds/weblog"/>
+      <outline type="rss" title="Beautiful Pixels" text="Beautiful Pixels" htmlUrl="http://beautifulpixels.blogspot.com/" xmlUrl="http://feeds.feedburner.com/BeautifulPixels"/>
+      <outline type="rss" title="Benoit Jacob" text="Benoit Jacob" htmlUrl="http://blog.mozilla.org/bjacob" xmlUrl="http://blog.mozilla.org/bjacob/feed/"/>
+      <outline type="rss" title="Brendan Eich" text="Brendan Eich" htmlUrl="https://brendaneich.com" xmlUrl="http://brendaneich.com/feed/"/>
+      <outline type="rss" title="Can I Use updates" text="Can I Use updates" htmlUrl="http://caniuse.com/" xmlUrl="http://feeds.feedburner.com/WhenCanIUse"/>
+      <outline type="rss" title="Chromium Blog" text="Chromium Blog" htmlUrl="http://blog.chromium.org/" xmlUrl="http://blog.chromium.org/feeds/posts/default"/>
+      <outline type="rss" title="CSS Working Group Blog" text="CSS Working Group Blog" htmlUrl="http://www.w3.org/blog/CSS" xmlUrl="http://www.w3.org/blog/CSS/feed/atom/"/>
+      <outline type="rss" title="Exploring IE" text="Exploring IE" htmlUrl="http://blogs.windows.com/ie/b/ie/" xmlUrl="http://blogs.windows.com/ie/b/ie/rss.aspx"/>
+      <outline type="rss" title="Firefox Nightly News" text="Firefox Nightly News" htmlUrl="http://firefoxnightly.tumblr.com/" xmlUrl="http://firefoxnightly.tumblr.com/rss"/>
+      <outline type="rss" title="&lt;Glazblog/&gt;" text="&lt;Glazblog/&gt;" htmlUrl="http://www.glazman.org/weblog/" xmlUrl="http://www.glazman.org/weblog/dotclear/index.php?feed/rss2"/>
+      <outline type="rss" title="Google Chrome Blog" text="Google Chrome Blog" htmlUrl="http://chrome.blogspot.com/" xmlUrl="http://feeds2.feedburner.com/blogspot/Egta"/>
+      <outline type="rss" title="Hans Muller's WebKit Blog" text="Hans Muller's WebKit Blog" htmlUrl="http://hansmuller-webkit.blogspot.com/" xmlUrl="http://hansmuller-webkit.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" title="Henri Sivonen’s pages" text="Henri Sivonen’s pages" htmlUrl="http://hsivonen.iki.fi/" xmlUrl="http://hsivonen.iki.fi/feed/atom/"/>
+      <outline type="rss" title="IEBlog" text="IEBlog" htmlUrl="http://blogs.msdn.com/b/ie/" xmlUrl="http://blogs.msdn.com/b/ie/atom.aspx"/>
+      <outline type="rss" title="Jatinder S Mann" text="Jatinder S Mann" htmlUrl="http://jatindersmann.com" xmlUrl="http://jatindersmann.com/feed/"/>
+      <outline type="rss" title="JavaScript" text="JavaScript" htmlUrl="https://blog.mozilla.org/javascript/" xmlUrl="https://blog.mozilla.org/javascript/feed/"/>
+      <outline type="rss" title="Mozilla Hacks" text="Mozilla Hacks" htmlUrl="https://hacks.mozilla.org" xmlUrl="http://hacks.mozilla.org/feed/"/>
+      <outline type="rss" title="mraleph" text="mraleph" htmlUrl="http://mrale.ph/blog/" xmlUrl="http://mrale.ph/atom.xml"/>
+      <outline type="rss" title="Open Web Platform Daily" text="Open Web Platform Daily" htmlUrl="http://webplatformdaily.org/" xmlUrl="http://feeds.feedburner.com/OpenWebPlatformDailyDigest"/>
+      <outline type="rss" title="Opera Desktop Team" text="Opera Desktop Team" htmlUrl="http://my.opera.com/desktopteam/blog/" xmlUrl="http://my.opera.com/desktopteam/xml/rss/blog/"/>
+      <outline type="rss" title="Opera Developer News" text="Opera Developer News" htmlUrl="http://my.opera.com/ODIN/blog/" xmlUrl="http://my.opera.com/ODIN/xml/rss/blog"/>
+      <outline type="rss" title="Opera Dragonfly" text="Opera Dragonfly" htmlUrl="http://my.opera.com/dragonfly/blog/" xmlUrl="http://my.opera.com/dragonfly/xml/rss/blog"/>
+      <outline type="rss" title="Opera Labs" text="Opera Labs" htmlUrl="http://dev.opera.com/labs" xmlUrl="http://dev.opera.com/feeds/rss/articles"/>
+      <outline type="rss" title="Peter Beverloo" text="Peter Beverloo" htmlUrl="http://peter.sh/" xmlUrl="http://peter.sh/feed/"/>
+      <outline type="rss" title="Planet WebKit" text="Planet WebKit" htmlUrl="http://planet.webkit.org/" xmlUrl="http://planet.webkit.org/atom.xml"/>
+      <outline type="rss" title="Robert O'Callahan" text="Robert O'Callahan" htmlUrl="http://robert.ocallahan.org" xmlUrl="http://robert.ocallahan.org/feeds/posts/default"/>
+      <outline type="rss" title="Surfin' Safari" text="Surfin' Safari" htmlUrl="https://www.webkit.org/blog" xmlUrl="https://www.webkit.org/blog/feed/atom/"/>
+      <outline type="rss" title="Tab Atkins" text="Tab Atkins" htmlUrl="http://www.xanthir.com/blog/" xmlUrl="http://www.xanthir.com/blog/atom/"/>
+      <outline type="rss" title="Tantek Çelik" text="Tantek Çelik" htmlUrl="http://tantek.com/" xmlUrl="http://tantek.com/updates.atom"/>
+      <outline type="rss" title="Tavmjong Bah's Blog" text="Tavmjong Bah's Blog" htmlUrl="http://tavmjong.free.fr/blog" xmlUrl="http://tavmjong.free.fr/blog/?feed=rss2"/>
+      <outline type="rss" title="Tech Notes" text="Tech Notes" htmlUrl="http://neugierig.org/software/blog/" xmlUrl="http://neugierig.org/software/blog/atom.xml"/>
+      <outline type="rss" title="The Burning Edge" text="The Burning Edge" htmlUrl="http://www.squarefree.com/burningedge" xmlUrl="http://www.squarefree.com/burningedge/feed/"/>
+      <outline type="rss" title="The HTML5 test" text="The HTML5 test" htmlUrl="http://blog.html5test.com/" xmlUrl="http://blog.html5test.com/rss"/>
+      <outline type="rss" title="The Paciello Group Blog" text="The Paciello Group Blog" htmlUrl="http://blog.paciellogroup.com" xmlUrl="http://blog.paciellogroup.com/feed/"/>
+      <outline type="rss" title="The WebM Open Media Project Blog" text="The WebM Open Media Project Blog" htmlUrl="http://blog.webmproject.org/" xmlUrl="http://webmproject.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" title="W3C Blog" text="W3C Blog" htmlUrl="http://www.w3.org/blog/" xmlUrl="http://www.w3.org/blog/feed/"/>
+      <outline type="rss" title="W3C Memes" text="W3C Memes" htmlUrl="http://w3cmemes.tumblr.com/" xmlUrl="http://w3cmemes.tumblr.com/rss"/>
+      <outline type="rss" title="Web Browsers News and Reviews" text="Web Browsers News and Reviews" htmlUrl="http://www.favbrowser.com" xmlUrl="http://feeds.feedburner.com/FavoriteBrowser"/>
+      <outline type="rss" title="Web Platform Team Blog" text="Web Platform Team Blog" htmlUrl="http://blogs.adobe.com/webplatform" xmlUrl="http://blogs.adobe.com/webplatform/feed/"/>
+      <outline type="rss" title="WebKit memes" text="WebKit memes" htmlUrl="http://webkitmemes.tumblr.com/" xmlUrl="http://webkitmemes.tumblr.com/rss"/>
+      <outline type="rss" title="WebKitBits" text="WebKitBits" htmlUrl="http://www.webkitbits.com/" xmlUrl="http://feeds.webkitbits.com/Webkitbits"/>
+    </outline>
+  </body>
+</opml>
