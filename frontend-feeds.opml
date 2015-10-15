@@ -166,7 +166,6 @@
       <outline type="rss" text="Blue Sky On Mars" title="Blue Sky On Mars" xmlUrl="http://feeds.feedburner.com/blueskyonmars/all" htmlUrl="http://www.blueskyonmars.com"/>
       <outline type="rss" text="Alex Gibson" title="Alex Gibson" xmlUrl="http://alxgbsn.co.uk/feed/" htmlUrl="http://alxgbsn.co.uk/"/>
       <outline type="rss" text="Brackets Blog" title="Brackets Blog" xmlUrl="http://blog.brackets.io/feed/" htmlUrl="http://blog.brackets.io"/>
-      <outline type="rss" text="Photoshop Lady" title="Photoshop Lady" xmlUrl="http://www.photoshoplady.com/feed/" htmlUrl="http://www.photoshoplady.com"/>
       <outline type="rss" text="HTML + CSS + JavaScript" title="HTML + CSS + JavaScript" xmlUrl="http://feeds.feedburner.com/HtmlCssJavascript" htmlUrl="http://htmlcssjavascript.com"/>
       <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
       <outline type="rss" text="SourceForge.net: SF.net Project News: ZK - Simply Ajax and Mobile" title="SourceForge.net: SF.net Project News: ZK - Simply Ajax and Mobile" xmlUrl="http://feeds.feedburner.com/zkoss" htmlUrl="http://www.www.zkoss.org"/>
@@ -217,7 +216,6 @@
       <outline type="rss" text="Anne’s Blog" title="Anne’s Blog" xmlUrl="http://annevankesteren.nl/feeds/weblog" htmlUrl="https://annevankesteren.nl/"/>
       <outline type="rss" text="Surfin' Safari" title="Surfin' Safari" xmlUrl="https://www.webkit.org/blog/feed/atom/" htmlUrl="https://www.webkit.org/blog"/>
       <outline type="rss" text="Opera Desktop" title="Opera Desktop" xmlUrl="http://blogs.opera.com/desktop/feed/" htmlUrl="http://blogs.opera.com/desktop"/>
-      <outline type="rss" text="Tantek Çelik" title="Tantek Çelik" xmlUrl="http://tantek.com/updates.atom" htmlUrl="http://tantek.com/"/>
       <outline type="rss" text="Planet WebKit" title="Planet WebKit" xmlUrl="http://planet.webkit.org/atom.xml" htmlUrl="http://planet.webkit.org/"/>
       <outline type="rss" text="mraleph" title="mraleph" xmlUrl="http://mrale.ph/atom.xml" htmlUrl="http://mrale.ph"/>
       <outline type="rss" text="W3C Blog" title="W3C Blog" xmlUrl="http://www.w3.org/blog/feed/" htmlUrl="https://www.w3.org/blog"/>
