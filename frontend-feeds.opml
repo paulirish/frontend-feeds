@@ -68,7 +68,6 @@
       <outline type="rss" text="FusionGrokker" title="FusionGrokker" xmlUrl="http://feeds2.feedburner.com/FusionGrokker/" htmlUrl="http://fusiongrokker.com/"/>
       <outline type="rss" text="Getfirebug Blog" title="Getfirebug Blog" xmlUrl="http://blog.getfirebug.com/?feed=rss2" htmlUrl="https://blog.getfirebug.com"/>
       <outline type="rss" text="Bootstrap Blog" title="Bootstrap Blog" xmlUrl="http://blog.getbootstrap.com/feed.xml" htmlUrl="http://blog.getbootstrap.com/"/>
-      <outline type="rss" text="Addy Osmani" title="Addy Osmani" xmlUrl="http://feeds.feedburner.com/addyosmani" htmlUrl="http://addyosmani.com/blog"/>
       <outline type="rss" text="Thibaud B." title="Thibaud B." xmlUrl="http://thibaudb.com/rss/" htmlUrl="http://thibaudb.com/"/>
       <outline type="rss" text="Robert's talk" title="Robert's talk" xmlUrl="http://feeds.feedburner.com/robertnyman" htmlUrl="http://robertnyman.com"/>
       <outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="http://www.alistapart.com/rss.xml" htmlUrl="http://alistapart.com"/>
