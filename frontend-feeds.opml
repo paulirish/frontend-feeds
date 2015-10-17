@@ -48,7 +48,6 @@
       <outline type="rss" text="Marco's accessibility blog" title="Marco's accessibility blog" xmlUrl="http://www.marcozehe.de/feed/" htmlUrl="https://www.marcozehe.de"/>
       <outline type="rss" text="Ryan Joy (atxryan)" title="Ryan Joy (atxryan)" xmlUrl="http://ryanjoy.com/feed/" htmlUrl="http://ryanjoy.com"/>
       <outline type="rss" text="Matteo Spinelli's Cubiq.org" title="Matteo Spinelli's Cubiq.org" xmlUrl="http://cubiq.org/feed" htmlUrl="http://cubiq.org"/>
-      <outline type="rss" text="Ben Nadel" title="Ben Nadel" xmlUrl="http://www.bennadel.com/index.cfm?event=blog.rss" htmlUrl="http://www.bennadel.com/"/>
       <outline type="rss" text="igvita.com" title="igvita.com" xmlUrl="http://feeds.igvita.com/igvita" htmlUrl="https://www.igvita.com"/>
       <outline type="rss" text="Yeoman Blog" title="Yeoman Blog" xmlUrl="http://yeoman.io/blog/atom.xml" htmlUrl="http://yeoman.io"/>
       <outline type="rss" text="Yahoo Engineering" title="Yahoo Engineering" xmlUrl="http://yahooeng.tumblr.com/rss" htmlUrl="http://yahooeng.tumblr.com/"/>
@@ -74,7 +73,6 @@
       <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://www.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com"/>
       <outline type="rss" text="Adactio: Articles" title="Adactio: Articles" xmlUrl="http://adactio.com/articles/rss" htmlUrl="https://adactio.com/articles/"/>
       <outline type="rss" text="DailyJS" title="DailyJS" xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com/"/>
-      <outline type="rss" text="Node.js Blog" title="Node.js Blog" xmlUrl="http://blog.nodejs.org/feed/" htmlUrl="https://nodejs.org/en/"/>
       <outline type="rss" text="Filament Group, Inc: Lab" title="Filament Group, Inc: Lab" xmlUrl="http://www.filamentgroup.com/lab/atom/" htmlUrl="http://filamentgroup.com/lab/"/>
       <outline type="rss" text="Speckyboy Design Magazine" title="Speckyboy Design Magazine" xmlUrl="http://feeds.feedburner.com/speckboy-design-magazine" htmlUrl="http://speckyboy.com"/>
       <outline type="rss" text="The ZK Blog" title="The ZK Blog" xmlUrl="http://blog.zkoss.org/index.php/feed/" htmlUrl="http://blog.zkoss.org"/>
@@ -182,7 +180,6 @@
       <outline type="rss" text="Sencha Blog" title="Sencha Blog" xmlUrl="http://feeds.feedburner.com/extblog" htmlUrl="https://www.sencha.com"/>
       <outline type="rss" text="Mirco Zeiss" title="Mirco Zeiss" xmlUrl="http://mircozeiss.com/atom.xml" htmlUrl="http://mircozeiss.com//"/>
       <outline type="rss" text="React" title="React" xmlUrl="http://facebook.github.io/react/feed.xml" htmlUrl="https://facebook.github.io/react"/>
-      <outline type="rss" text="Smashing Coding" title="Smashing Coding" xmlUrl="http://rss1.smashingmagazine.com/feed/?f=coding-std" htmlUrl="http://www.smashingmagazine.com"/>
       <outline type="rss" text="Max Lynch on Medium" title="Max Lynch on Medium" xmlUrl="https://medium.com/feed/@maxlynch" htmlUrl="https://medium.com/@maxlynch?source=rss-a76fa51de1ba------2"/>
       <outline type="rss" text="James Padolsey" title="James Padolsey" xmlUrl="http://feeds.feedburner.com/JamesPadolsey" htmlUrl="http://james.padolsey.com"/>
       <outline type="rss" text="Remy Sharp" title="Remy Sharp" xmlUrl="http://feeds.feedburner.com/remysharp" htmlUrl="https://remysharp.com"/>
