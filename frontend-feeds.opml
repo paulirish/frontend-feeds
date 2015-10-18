@@ -183,7 +183,6 @@
       <outline htmlUrl="https://medium.com/javascript-scene?source=rss----c0aeac5284ad---4" text="JavaScript Scene" title="JavaScript Scene" type="rss" xmlUrl="https://medium.com/feed/javascript-scene"/>
       <outline htmlUrl='https://nodejs.org/en/' text='Node.js Blog' title='Node.js Blog' type='rss' xmlUrl='http://blog.nodejs.org/feed/' />
       <outline htmlUrl='https://paulbakaus.com' text='The Sea of Ideas' title='The Sea of Ideas' type='rss' xmlUrl='http://feeds.feedburner.com/TheSeaOfIdeas' />
-      <outline htmlUrl='https://pinboard.in/u:rem/public/' text='Pinboard (rem)' title='Pinboard (rem)' type='rss' xmlUrl='http://feeds.pinboard.in/rss/u:rem' />
       <outline htmlUrl='https://reactjsnews.com/' text='ReactJS News' title='ReactJS News' type='rss' xmlUrl='https://reactjsnews.com/feed.xml' />
       <outline htmlUrl='https://remysharp.com' text='Remy Sharp' title='Remy Sharp' type='rss' xmlUrl='http://feeds.feedburner.com/remysharp' />
       <outline htmlUrl="https://scotch.io" text="Scotch" title="Scotch" type="rss" xmlUrl="http://scotch.io/feed"/>
