@@ -199,6 +199,7 @@
       <outline htmlUrl='https://paulbakaus.com' text='The Sea of Ideas' title='The Sea of Ideas' type='rss' xmlUrl='http://feeds.feedburner.com/TheSeaOfIdeas' />
       <outline htmlUrl='https://reactjsnews.com/' text='ReactJS News' title='ReactJS News' type='rss' xmlUrl='https://reactjsnews.com/feed.xml' />
       <outline htmlUrl='https://remysharp.com' text='Remy Sharp' title='Remy Sharp' type='rss' xmlUrl='http://feeds.feedburner.com/remysharp' />
+      <outline htmlUrl="https://rreverser.com/" text="RReverser's" title="RReverser's" type="rss" xmlUrl="https://rreverser.com/rss/"/>
       <outline htmlUrl="https://scotch.io" text="Scotch" title="Scotch" type="rss" xmlUrl="http://scotch.io/feed"/>
       <outline htmlUrl='https://subjunctive.wordpress.com' text='If only I were' title='If only I were' type='rss' xmlUrl='http://subjunctive.wordpress.com/feed/' />
       <outline htmlUrl='https://weston.ruter.net' text='Weston Ruter' title='Weston Ruter' type='rss' xmlUrl='http://feeds.feedburner.com/westonruter' />
