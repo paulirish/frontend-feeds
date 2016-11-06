@@ -10,7 +10,7 @@
   </head>
   <body>
     <outline text='frontend-webapps' title='frontend-webapps'>
-      <outline htmlUrl='http://addyosmani.com/blog' text='AddyOsmani.com | Articles for developers' title='AddyOsmani.com | Articles for developers' type='rss' xmlUrl='http://addyosmani.com/blog/feed/' />
+      <outline htmlUrl='https://addyosmani.com/' text='AddyOsmani.com' title='AddyOsmani.com' type='rss' xmlUrl='https://addyosmani.com/rss.xml' />
       <outline htmlUrl='http://blog.nodejitsu.com/' text='blog.nodejitsu.com' title='blog.nodejitsu.com' type='rss' xmlUrl='http://blog.nodejitsu.com/feed.xml' />
       <outline htmlUrl='http://blog.pamelafox.org/' text="pamela fox's blog" title="pamela fox's blog" type='rss' xmlUrl='http://blog.pamelafox.org/feeds/posts/default' />
       <outline htmlUrl='http://cordova.apache.org/rss.xml' text='Apache Cordova' title='Apache Cordova' type='rss' xmlUrl='http://cordova.apache.org/rss.xml' />
