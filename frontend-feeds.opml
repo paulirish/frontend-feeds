@@ -215,6 +215,7 @@
       <outline htmlUrl='https://www.sencha.com' text='Sencha Blog' title='Sencha Blog' type='rss' xmlUrl='http://feeds.feedburner.com/extblog' />
       <outline htmlUrl='https://www.webreflection.co.uk/' text='WebReflection Limited' title='WebReflection Limited' type='rss' xmlUrl='https://www.webreflection.co.uk/blog/feed.atom' />
       <outline htmlUrl='https://xhtmlized.com' text='XHTMLized' title='XHTMLized' type='rss' xmlUrl='http://feeds.feedburner.com/XHTMLized' />
+      <outline htmlUrl='http://remarkablemark.org/' text='remarkablemark' title='remarkablemark' type='rss' xmlUrl='http://remarkablemark.org/feed.xml' />
       <outline text='John Nunemaker' title='John Nunemaker' type='rss' xmlUrl='http://johnnunemaker.com/atom.xml' />
     </outline>
     <outline text='frontend-standards+browsers' title='frontend-standards+browsers'>
