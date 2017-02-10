@@ -1,0 +1,24 @@
+{
+  "name": "frontend-feeds",
+  "version": "1.0.0",
+  "description": "OPML of the frontend development rss feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sotayamashita/frontend-feeds.git"
+  },
+  "keywords": [
+    "frontend",
+    "rss",
+    "xml"
+  ],
+  "author": "Sota Yamashita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sotayamashita/frontend-feeds/issues"
+  },
+  "homepage": "https://github.com/sotayamashita/frontend-feeds"
+}
